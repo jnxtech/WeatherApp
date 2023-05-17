@@ -3,8 +3,7 @@ Just try Svelte and Tailwind.
 
 <br>
 
-![image](https://github.com/jnxtech/WeatherApp/assets/119785977/4490cff7-d188-49ee-a78b-3836c2d629b1)
+![image](https://github.com/jnxtech/WeatherApp/assets/119785977/ecf325a1-9a05-4f4c-b2d4-993f4a50c6a3)
 <br>
 <br>
-<br>
-![image](https://github.com/jnxtech/WeatherApp/assets/119785977/1d40c390-acc9-42dd-b7ef-c705c363e72c)
+![image](https://github.com/jnxtech/WeatherApp/assets/119785977/83a1e8b5-cc59-404c-85f6-c4513f60d9a5)
