@@ -3,9 +3,10 @@ Just give Svelte and Tailwind a try.
 
 
 
-
-
-![image](https://github.com/jnxtech/WeatherApp/assets/119785977/39494da8-7728-4566-a327-2723612d30d7)
-
-
-![image](https://github.com/jnxtech/WeatherApp/assets/119785977/7d256fbd-c021-48de-82ed-e7a96965d3c7)
+![image](https://github.com/jnxtech/WeatherApp/assets/119785977/4c5d6341-437e-4a95-87a7-590f96bdccec)
+<br>
+<br>
+<br>
+<br>
+<br>
+![image](https://github.com/jnxtech/WeatherApp/assets/119785977/35bcebb2-b0d0-49bc-90d5-78b8d664a5e1)
