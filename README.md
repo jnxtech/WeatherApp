@@ -1,5 +1,7 @@
 # WeatherApp
-Just try using Svelte
+Just give Svelte and Tailwind a try.
+
+
 
 
 
