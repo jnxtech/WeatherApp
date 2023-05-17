@@ -1,5 +1,5 @@
 # WeatherApp
-Just give Svelte and Tailwind a try.
+Just try Svelte and Tailwind.
 
 <br>
 
