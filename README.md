@@ -1,11 +1,9 @@
 # WeatherApp
 Just give Svelte and Tailwind a try.
 
-
+<br>
 
 ![image](https://github.com/jnxtech/WeatherApp/assets/119785977/4c5d6341-437e-4a95-87a7-590f96bdccec)
-<br>
-<br>
 <br>
 <br>
 <br>
